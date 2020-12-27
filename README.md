@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/MooseandSquvirrel/My_C_library">
-    <img src="strcat.png" alt="Logo" width="800" height="480">
+    <img src="strcpy.png" alt="Logo" width="800" height="480">
   </a>
 </p>
 
